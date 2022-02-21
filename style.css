@@ -16,6 +16,10 @@
     height: 391px;
 }
 
+.list ul {
+    list-style: none;
+}
+
 
 /* .rounded,
 .card-contant {
