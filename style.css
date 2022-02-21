@@ -1,0 +1,23 @@
+.user-info ul {
+    list-style: none;
+}
+
+.user-info ul li {
+    padding: 0px 7px;
+    color: white;
+}
+
+.user-info ul li i {
+    color: white;
+}
+
+.Hungry-pic img {
+    width: 86%;
+    height: 391px;
+}
+
+
+/* .rounded,
+.card-contant {
+    border-radius: 70px;
+} */
