@@ -20,6 +20,20 @@
     list-style: none;
 }
 
+.card-image img {
+    width: 100%;
+    height: 200px;
+}
+
+.social-icon i {
+    padding: 9px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 50%;
+    font-size: 22px;
+    color: rgb(37, 37, 37);
+}
+
 
 /* .rounded,
 .card-contant {
